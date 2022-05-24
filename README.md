@@ -18,4 +18,4 @@ npm run dev
 ```
 
 ## Gist con ejercicios:
-* [Clean Code Gist](https://gist.github.com/jgdiaz19/e49a1bfa1d05e818d240f3bd3d61f1db)
+* [Clean Code Gist](https://gist.github.com/jgdiaz19/348c6b5f8b75f2a9317967c01bf1c853)
