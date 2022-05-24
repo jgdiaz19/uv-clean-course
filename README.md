@@ -1,6 +1,6 @@
 # Proyecto para practicar
 
-Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del taller de Clean Code.
+Este es un proyecto de Vanilla TypeScript, para trabajar los ejercicios del taller de Clean Code.
 
 Clonar o descargar el proyecto y luego:
 
